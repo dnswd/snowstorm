@@ -32,7 +32,7 @@ async function elementReady(selector) {
 
 elementReady("form")
   .then(() => {
-    let arr = []; // Insert course codes here
+    let arr = []; // Insert course codes here with format "<classcode>-<number of credit/SKS>"
     [...document.querySelectorAll("input[type=radio]")].forEach((b) => {
       if (arr.includes(b.value)) b.click();
     })

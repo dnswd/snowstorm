@@ -1,13 +1,14 @@
 # Project Snowstorm  
 Win UI's greatest war in (milli)seconds!
 
-### Prerequisites:
-- Tampermonkey Browser Extension  
-  Import using [released zip file](#)
-
 ### Limits:
 - Computer RAM (>3 GB of ram recommended)
-- Internet Speed (Faculty Network is highly recommended)
+- Internet Speed (Faculty Intranet is highly recommended)
+- Luck (use Microsoft Edge?)
+
+### Prerequisites:
+- Tampermonkey Browser Extension  
+  Import using [released zip file](https://github.com/dnswd/snowstorm/releases/download/v1.0/snowstorm_v1.0.zip)
 
 ### Components:
 - **Godspeed**  
@@ -24,10 +25,13 @@ Win UI's greatest war in (milli)seconds!
 2. Find a place where the Internet speed is stable and fast.
 3. Replace `username` and `password` in **TacticalLogin** with your own username and password.
 4. Insert your desired course numbers in **Godspeed**.
-5. On the D-Day, open a chrome tab and navigate to SIAK server.
+5. On the D-Day, open a tab and navigate to SIAK server.
 6. Sit back and cheers!
 
-It is recommended to not disturb the chrome window before finishing the war.
+## Post-war
+To avoid so called ***sekre-magic*** it is recommended to use a website monitor. there are plenty available on PlayStore, or you can use distill.io on desktop by installing it from the extension store.
+
+It is recommended to not disturb the browser window before finishing the war.
 
 
 (c) Dennis A. Walangadi - 2019

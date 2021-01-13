@@ -33,8 +33,11 @@ async function elementReady(selector) {
 elementReady("form")
   .then(() => {
     let arr = []; // Insert course codes here with format "<classcode>-<number of credit/SKS>"
-    [...document.querySelectorAll("input[type=radio]")].forEach((b) => {
-      if (arr.includes(b.value)) b.click();
-    })
+    let buttons = [...document.querySelectorAll("input[type=radio]")]
+    if (buttons.filter((b) => b.checked == true).length == 0) { // Already filled handler
+      buttons.forEach((b) => {
+        if (arr.includes(b.value)) b.click();
+      })
+    } // TODO: Add conditional chaining
   })
   .then(document.querySelector('input[type="submit"]').click())

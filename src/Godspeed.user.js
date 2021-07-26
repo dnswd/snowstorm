@@ -39,5 +39,5 @@ elementReady("form")
         if (arr.includes(b.value)) b.click();
       })
     } // TODO: Add conditional chaining
-  })
-  .then(document.querySelector('input[type="submit"]').click())
+    document.querySelector('input[type="submit"]').click();
+  });

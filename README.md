@@ -13,7 +13,7 @@ Win UI's greatest war in (milli)seconds!
 ### Prerequisites
 
 - Tampermonkey Browser Extension  
-  Import using [released zip file](https://github.com/dnswd/snowstorm/releases/download/v1.0/snowstorm_v1.0.zip)
+  Import using [released zip file](https://github.com/dnswd/snowstorm/releases)
 
 ### Components
 

@@ -2,7 +2,12 @@
 
 Win UI's greatest war in (milli)seconds!
 
-Project Snowstorm is a chain of scripts that works together to assist you in the SIAK War. It's lightweight, blazingly fast, easy to understand, and doesn't use any browser driver to avoid startup overhead. Snowstorm is ridiculously optimized. It will run even before the DOM tree is rendered in your browser.
+Project Snowstorm is a chain of scripts that works together to assist you in the SIAK War. It's lightweight, blazingly fast, easy to understand, and doesn't use any browser driver to avoid startup overhead.
+
+> [!NOTE]
+> To Fasilkom Students:
+>
+> There are quicker and more efficient ways to do this; I'll leave it as an exercise for you all.
 
 ## About
 
@@ -13,7 +18,7 @@ Snowstorm uses your own existing browser to run. Any browser compatible with Tam
 - **Computer Speed**  
   Snowstorm depends on how fast your computer build the DOM tree, so your computer speed matters.
 - **Internet Speed**  
-  Snowstorm still depends on how fast your internet sends messages to the SIAK server, so please check your internet connection. It is advised to **avoid** Faculty Intranet because it's shown that intranet connection is less prioritized during SIAK War. 
+  Snowstorm still depends on how fast your internet sends messages to the SIAK server, so please check your internet connection. It is advised to **avoid** Faculty Intranet because it's shown that intranet connection is less prioritized during SIAK War. (Note: this might not be true anymore, but speed still matters!)
 - **Luck** 🍀  
   There are tons of factors that will affect your war. So, good luck!
 
@@ -55,6 +60,6 @@ It is recommended to not disturb the browser window before finishing the war. Th
 
 ## Post-war
 
-To avoid so-called ***sekre-magic***, using a website monitoring app is recommended. There are plenty available on the web and PlayStore, or you can use `distill.io` on your desktop by installing it from the extension store.
+To avoid so-called ***sekre-magic*** (courses manually adjusted by SIAK admins) using a website monitoring app is recommended. There are plenty available on the web and PlayStore, or you can use `distill.io` on your desktop by installing it from the extension store.
 
 (c) Dennis A. Walangadi - 2019
